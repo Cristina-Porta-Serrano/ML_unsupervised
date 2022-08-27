@@ -9,43 +9,43 @@ The 'Facebook Live Sellers in Thailand' is a dataset curated in UCI Machine Lear
 
 * *Attributes (explanatory variables):*
 
-* status_id: id of the status published.
+    * status_id: id of the status published.
 
 
-* status_type: this refers to the type of facebook element to analyse: photo, video, status or link.
+    * status_type: this refers to the type of facebook element to analyse: photo, video, status or link.
 
 
-* status_published month/day/year and hour the status was published.
+    * status_published month/day/year and hour the status was published.
 
 
-* num_reactions: number of reactions that the status got: it is the addition of the likes, loves, wows, hahas, sads and angrys.
+    * num_reactions: number of reactions that the status got: it is the addition of the likes, loves, wows, hahas, sads and angrys.
 
 
-* num_comments: number of comments that the status got.
+    * num_comments: number of comments that the status got.
 
 
-* num_shares: number of shares that the status got.
+    * num_shares: number of shares that the status got.
 
 
-* num_likes: number of likes that the status got.
+    * num_likes: number of likes that the status got.
 
 
-* num_loves: number of loves that the status got.
+    * num_loves: number of loves that the status got.
 
 
-* num_wows: number of wows that the status got.
+    * num_wows: number of wows that the status got.
 
 
-* num_hahas: number of hahas that the status got.
+    * num_hahas: number of hahas that the status got.
 
 
-* num_sads: number of sads that the status got.
+    * num_sads: number of sads that the status got.
 
 
-* num_angrys: number of angrys that the status got.
+    * num_angrys: number of angrys that the status got.
 
 
-* Column1/2/3/4: this columns have no data or info. 
+    * Column1/2/3/4: this columns have no data or info. 
 
 
 ## Conclusions
